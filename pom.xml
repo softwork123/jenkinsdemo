@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.mycompany</groupId>
-	<artifactId>rehana7866</artifactId>
+	<artifactId>kgm8900</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>mule-application</packaging>
 
-	<name>rehana7866</name>
+	<name>kgm8900</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -45,7 +45,7 @@
           <!-- <region>eu-central-1</region>  -->
           <objectStoreV2>true</objectStoreV2>
           <uri>https://anypoint.mulesoft.com</uri>; 
-          <applicationName>rehana7866</applicationName>
+          <applicationName>kgm8900</applicationName>
           <workerType>MICRO</workerType>
           <workers>1</workers> 
         </cloudHubDeployment> 
