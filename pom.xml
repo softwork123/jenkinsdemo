@@ -44,10 +44,10 @@
           <environment>Sandbox</environment> 
           <!-- <region>eu-central-1</region>  -->
           <workerType>MICRO</workerType>
-          <objectStoreV2>true</objectStoreV2>
           <workers>1</workers> 
           <uri>https://anypoint.mulesoft.com</uri>; 
           <applicationName>jenkisdemo7866</applicationName> 
+          <objectStoreV2>true</objectStoreV2>
         </cloudHubDeployment> 
       </configuration> 
       <executions> 
