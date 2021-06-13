@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.mycompany</groupId>
-	<artifactId>jenkinsdemo</artifactId>
+	<artifactId>jenkinsdemo7866</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>mule-application</packaging>
 
-	<name>jenkinsdemo</name>
+	<name>jenkinsdemo7866</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -46,7 +46,7 @@
           <workerType>Micro</workerType>
           <workers>1</workers> 
           <uri>https://anypoint.mulesoft.com</uri>; 
-          <applicationName>jenkisdemo</applicationName> 
+          <applicationName>jenkisdemo7866</applicationName> 
         </cloudHubDeployment> 
       </configuration> 
       <executions> 
