@@ -40,7 +40,7 @@
         <cloudHubDeployment> 
           <muleVersion>${app.runtime}</muleVersion> 
           <username>gouse7866</username> 
-          <password>Khazi@1234!</password> 
+          <password>Gousekgm1</password> 
           <environment>Sandbox</environment> 
           <!-- <region>eu-central-1</region>  -->
           <workerType>Micro</workerType>
